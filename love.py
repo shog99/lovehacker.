@@ -1,3 +1,4 @@
+
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -37,18 +38,18 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Asif Javed
+   TASNEEM
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
+   THE ANONYMOUS GENIUS TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
-   pakistani hackers
+   Genius Hacker
    ℒℴνℯ ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
 \033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/Genius 
 \033[1;91m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -67,13 +68,13 @@ os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mlovehacker
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
+\033[1;96mYouTube \033[1;93m: \033[1;92mTasneem Genius
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/shogi/GENIUS
 \033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = "lovehacker"
-CorrectPassword = "03094161457"
+CorrectUsername = "GENIUS"
+CorrectPassword = "03215982058"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
